@@ -1,0 +1,17 @@
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\Service.dll
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\Service.pdb
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\AutoMapper.dll
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\DataeDAL.dll
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\Models.dll
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\EntityFramework.dll
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\DataeDAL.pdb
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\DataeDAL.dll.config
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\Models.pdb
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\AutoMapper.pdb
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\AutoMapper.xml
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\bin\Debug\EntityFramework.xml
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\obj\Debug\Service.dll
+C:\Users\mohanraj\source\repos\CrudMvc_Uow_Onetable_1\Service\obj\Debug\Service.pdb
